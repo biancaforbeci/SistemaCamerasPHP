@@ -16,7 +16,7 @@ Sistema feito em PHP com hospedagem no Amazon Elastic Compute Cloud (Amazon EC2)
 
 http://ec2-52-67-129-140.sa-east-1.compute.amazonaws.com/
 
-#Tela Inicial
+# Tela Inicial
 
 ![inicial](https://user-images.githubusercontent.com/36732444/46150166-5be27d00-c242-11e8-904d-2f397bcabc97.png)
 
